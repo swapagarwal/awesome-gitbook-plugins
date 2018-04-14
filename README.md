@@ -12,7 +12,10 @@
 
 ## Top Nav
 
-- edit-link ![](https://img.shields.io/npm/dw/gitbook-plugin-edit-link.svg)
+-  
+| Name | Description | Code | Stats |
+|:----:|:-----------:|:----:|:-----:|
+| [edit-link](https://plugins.gitbook.com/plugin/edit-link) | This GitBook Plugin adds "Edit This Page" link on every page. | [GitHub](https://github.com/rtCamp/gitbook-plugin-edit-link) | [![Open on NPM](https://img.shields.io/npm/dw/gitbook-plugin-edit-link.svg)](https://www.npmjs.com/package/gitbook-plugin-edit-link) |
 
 
 ## Side Menu
