@@ -5,7 +5,7 @@
 
 ## Contents
 
-- [Top Nav](#top-menu)
+- [Top Nav](#top-nav)
 - [Side Menu](#side-menu)
 - [General](#general)
 
