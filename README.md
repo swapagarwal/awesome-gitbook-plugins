@@ -7,6 +7,7 @@
 
 - [Top Nav](#top-nav)
 - [Side Menu](#side-menu)
+- [Website](#website)
 - [General](#general)
 
 
@@ -25,11 +26,15 @@
 - insert-logo ![](https://img.shields.io/npm/dw/gitbook-plugin-insert-logo.svg)
 
 
-## General
+## Website
 
 - back-to-top-button ![](https://img.shields.io/npm/dw/gitbook-plugin-back-to-top-button.svg)
 - copy-code-button ![](https://img.shields.io/npm/dw/gitbook-plugin-copy-code-button.svg)
 - ga ![](https://img.shields.io/npm/dw/gitbook-plugin-ga.svg)
-- hints ![](https://img.shields.io/npm/dw/gitbook-plugin-hints.svg)
 - sitemap ![](https://img.shields.io/npm/dw/gitbook-plugin-sitemap.svg)
+
+
+## General
+
+- hints ![](https://img.shields.io/npm/dw/gitbook-plugin-hints.svg)
 
