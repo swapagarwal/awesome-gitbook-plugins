@@ -37,4 +37,5 @@
 ## General
 
 - hints ![](https://img.shields.io/npm/dw/gitbook-plugin-hints.svg)
+- include-html ![](https://img.shields.io/npm/dw/gitbook-plugin-include-html.svg)
 
