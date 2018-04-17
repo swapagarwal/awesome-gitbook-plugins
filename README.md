@@ -13,9 +13,9 @@
 
 ## Top Nav
 
-| Name | Description | Code | Stats |
-|:----:|:-----------:|:----:|:-----:|
-| [edit-link](https://plugins.gitbook.com/plugin/edit-link) | This GitBook Plugin adds "Edit This Page" link on every page. | [GitHub](https://github.com/rtCamp/gitbook-plugin-edit-link) | [![Open on NPM](https://img.shields.io/npm/dw/gitbook-plugin-edit-link.svg)](https://www.npmjs.com/package/gitbook-plugin-edit-link) |
+| Name | Description | Example | Code | Stats |
+|:----:|:-----------:|:-------:|:----:|:-----:|
+| [edit-link](https://plugins.gitbook.com/plugin/edit-link) | This GitBook Plugin adds "Edit This Page" link on every page. | [Screenshot](https://cloud.githubusercontent.com/assets/4115/5695161/f5b79002-99b8-11e4-821a-d2af6c729348.png) | [GitHub](https://github.com/rtCamp/gitbook-plugin-edit-link) | [![Open on NPM](https://img.shields.io/npm/dw/gitbook-plugin-edit-link.svg)](https://www.npmjs.com/package/gitbook-plugin-edit-link) |
 
 
 ## Side Menu
