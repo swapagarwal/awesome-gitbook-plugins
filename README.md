@@ -1,6 +1,6 @@
 # awesome-gitbook-plugins
 
-🤩 Supercharge your books with the best of GitBook plugins!
+📚 Supercharge your books with the best of GitBook plugins!
 
 
 ## Contents
@@ -38,4 +38,3 @@
 
 - hints ![](https://img.shields.io/npm/dw/gitbook-plugin-hints.svg)
 - include-html ![](https://img.shields.io/npm/dw/gitbook-plugin-include-html.svg)
-
