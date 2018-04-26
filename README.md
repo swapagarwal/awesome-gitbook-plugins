@@ -30,10 +30,12 @@
 
 ## Website
 
-- back-to-top-button ![](https://img.shields.io/npm/dw/gitbook-plugin-back-to-top-button.svg)
-- copy-code-button ![](https://img.shields.io/npm/dw/gitbook-plugin-copy-code-button.svg)
-- ga ![](https://img.shields.io/npm/dw/gitbook-plugin-ga.svg)
-- sitemap ![](https://img.shields.io/npm/dw/gitbook-plugin-sitemap.svg)
+| Name | Description | Example | Code | Stats |
+|:----:|:-----------:|:-------:|:----:|:-----:|
+| [back-to-top-button](https://plugins.gitbook.com/plugin/back-to-top-button) |  |  |  | [![Open on NPM](https://img.shields.io/npm/dw/gitbook-plugin-back-to-top-button.svg)](https://www.npmjs.com/package/gitbook-plugin-back-to-top-button) |
+| [copy-code-button](https://plugins.gitbook.com/plugin/copy-code-button) |  |  |  | [![Open on NPM](https://img.shields.io/npm/dw/gitbook-plugin-copy-code-button.svg)](https://www.npmjs.com/package/gitbook-plugin-copy-code-button) |
+| [ga](https://plugins.gitbook.com/plugin/ga) |  |  |  | [![Open on NPM](https://img.shields.io/npm/dw/gitbook-plugin-ga.svg)](https://www.npmjs.com/package/gitbook-plugin-ga) |
+| [sitemap](https://plugins.gitbook.com/plugin/sitemap) |  |  |  | [![Open on NPM](https://img.shields.io/npm/dw/gitbook-plugin-sitemap.svg)](https://www.npmjs.com/package/gitbook-plugin-sitemap) |
 
 
 ## General
