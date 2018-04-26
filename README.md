@@ -20,10 +20,12 @@
 
 ## Side Menu
 
-- collapsible-chapters ![](https://img.shields.io/npm/dw/gitbook-plugin-collapsible-chapters.svg)
-- github ![](https://img.shields.io/npm/dw/gitbook-plugin-github.svg)
-- hide-published-with ![](https://img.shields.io/npm/dw/gitbook-plugin-hide-published-with.svg)
-- insert-logo ![](https://img.shields.io/npm/dw/gitbook-plugin-insert-logo.svg)
+| Name | Description | Example | Code | Stats |
+|:----:|:-----------:|:-------:|:----:|:-----:|
+| [collapsible-chapters](https://plugins.gitbook.com/plugin/collapsible-chapters) |  |  |  | [![Open on NPM](https://img.shields.io/npm/dw/gitbook-plugin-collapsible-chapters.svg)](https://www.npmjs.com/package/gitbook-plugin-collapsible-chapters) |
+| [github](https://plugins.gitbook.com/plugin/github) |  |  |  | [![Open on NPM](https://img.shields.io/npm/dw/gitbook-plugin-github.svg)](https://www.npmjs.com/package/gitbook-plugin-github) |
+| [hide-published-with](https://plugins.gitbook.com/plugin/hide-published-with) |  |  |  | [![Open on NPM](https://img.shields.io/npm/dw/gitbook-plugin-hide-published-with.svg)](https://www.npmjs.com/package/gitbook-plugin-hide-published-with) |
+| [insert-logo](https://plugins.gitbook.com/plugin/insert-logo) |  |  |  | [![Open on NPM](https://img.shields.io/npm/dw/gitbook-plugin-insert-logo.svg)](https://www.npmjs.com/package/gitbook-plugin-insert-logo) |
 
 
 ## Website
@@ -38,3 +40,4 @@
 
 - hints ![](https://img.shields.io/npm/dw/gitbook-plugin-hints.svg)
 - include-html ![](https://img.shields.io/npm/dw/gitbook-plugin-include-html.svg)
+
