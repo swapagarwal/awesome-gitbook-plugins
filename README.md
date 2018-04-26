@@ -32,7 +32,7 @@
 
 | Name | Description | Example | Code | Stats |
 |:----:|:-----------:|:-------:|:----:|:-----:|
-| [back-to-top-button](https://plugins.gitbook.com/plugin/back-to-top-button) |  |  |  | [![Open on NPM](https://img.shields.io/npm/dw/gitbook-plugin-back-to-top-button.svg)](https://www.npmjs.com/package/gitbook-plugin-back-to-top-button) |
+| [back-to-top-button](https://plugins.gitbook.com/plugin/back-to-top-button) | This plugin adds a "Back to Top" button to your GitBook. All three GitBook themes (White, Sepia, Night) are supported. | [Screenshot](https://raw.githubusercontent.com/stuebersystems/gitbook-plugin-back-to-top-button/master/screenshots.png) | [GitHub](https://github.com/stuebersystems/gitbook-plugin-back-to-top-button) | [![Open on NPM](https://img.shields.io/npm/dw/gitbook-plugin-back-to-top-button.svg)](https://www.npmjs.com/package/gitbook-plugin-back-to-top-button) |
 | [copy-code-button](https://plugins.gitbook.com/plugin/copy-code-button) |  |  |  | [![Open on NPM](https://img.shields.io/npm/dw/gitbook-plugin-copy-code-button.svg)](https://www.npmjs.com/package/gitbook-plugin-copy-code-button) |
 | [ga](https://plugins.gitbook.com/plugin/ga) |  |  |  | [![Open on NPM](https://img.shields.io/npm/dw/gitbook-plugin-ga.svg)](https://www.npmjs.com/package/gitbook-plugin-ga) |
 | [sitemap](https://plugins.gitbook.com/plugin/sitemap) |  |  |  | [![Open on NPM](https://img.shields.io/npm/dw/gitbook-plugin-sitemap.svg)](https://www.npmjs.com/package/gitbook-plugin-sitemap) |
