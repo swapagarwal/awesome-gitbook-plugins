@@ -40,6 +40,8 @@
 
 ## General
 
-- hints ![](https://img.shields.io/npm/dw/gitbook-plugin-hints.svg)
-- include-html ![](https://img.shields.io/npm/dw/gitbook-plugin-include-html.svg)
+| Name | Description | Example | Code | Stats |
+|:----:|:-----------:|:-------:|:----:|:-----:|
+| [hints](https://plugins.gitbook.com/plugin/hints) |  |  |  | [![Open on NPM](https://img.shields.io/npm/dw/gitbook-plugin-hints.svg)](https://www.npmjs.com/package/gitbook-plugin-hints) |
+| [include-html](https://plugins.gitbook.com/plugin/include-html) |  |  |  | [![Open on NPM](https://img.shields.io/npm/dw/gitbook-plugin-include-html.svg)](https://www.npmjs.com/package/gitbook-plugin-include-html) |
 
