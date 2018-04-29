@@ -43,6 +43,6 @@
 
 | Name | Description | Example | Code | Stats |
 |:----:|:-----------:|:-------:|:----:|:-----:|
-| [hints](https://plugins.gitbook.com/plugin/hints) |  |  |  | [![Open on NPM](https://img.shields.io/npm/dw/gitbook-plugin-hints.svg)](https://www.npmjs.com/package/gitbook-plugin-hints) |
-| [include-html](https://plugins.gitbook.com/plugin/include-html) |  |  |  | [![Open on NPM](https://img.shields.io/npm/dw/gitbook-plugin-include-html.svg)](https://www.npmjs.com/package/gitbook-plugin-include-html) |
+| [hints](https://plugins.gitbook.com/plugin/hints) | Defines four types of styled hint blocks: info, danger, tip, working. | N/A | [GitHub](https://github.com/GitbookIO/plugin-hints) | [![Open on NPM](https://img.shields.io/npm/dw/gitbook-plugin-hints.svg)](https://www.npmjs.com/package/gitbook-plugin-hints) |
+| [include-html](https://plugins.gitbook.com/plugin/include-html) | Insert HTML into Gitbook pages after rendering markdown -> HTML | N/A | [GitHub](https://github.com/dtolb/gitbook-plugin-include-html) | [![Open on NPM](https://img.shields.io/npm/dw/gitbook-plugin-include-html.svg)](https://www.npmjs.com/package/gitbook-plugin-include-html) |
 
