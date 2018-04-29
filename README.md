@@ -23,10 +23,10 @@
 
 | Name | Description | Example | Code | Stats |
 |:----:|:-----------:|:-------:|:----:|:-----:|
-| [collapsible-chapters](https://plugins.gitbook.com/plugin/collapsible-chapters) |  |  |  | [![Open on NPM](https://img.shields.io/npm/dw/gitbook-plugin-collapsible-chapters.svg)](https://www.npmjs.com/package/gitbook-plugin-collapsible-chapters) |
-| [github](https://plugins.gitbook.com/plugin/github) |  |  |  | [![Open on NPM](https://img.shields.io/npm/dw/gitbook-plugin-github.svg)](https://www.npmjs.com/package/gitbook-plugin-github) |
-| [hide-published-with](https://plugins.gitbook.com/plugin/hide-published-with) |  |  |  | [![Open on NPM](https://img.shields.io/npm/dw/gitbook-plugin-hide-published-with.svg)](https://www.npmjs.com/package/gitbook-plugin-hide-published-with) |
-| [insert-logo](https://plugins.gitbook.com/plugin/insert-logo) |  |  |  | [![Open on NPM](https://img.shields.io/npm/dw/gitbook-plugin-insert-logo.svg)](https://www.npmjs.com/package/gitbook-plugin-insert-logo) |
+| [collapsible-chapters](https://plugins.gitbook.com/plugin/collapsible-chapters) | Collapsable chapters for convenient navigation within a gitbook | N/A | [GitHub](https://github.com/vihanb/gitbook-plugin-collapsible-chapters) | [![Open on NPM](https://img.shields.io/npm/dw/gitbook-plugin-collapsible-chapters.svg)](https://www.npmjs.com/package/gitbook-plugin-collapsible-chapters) |
+| [github](https://plugins.gitbook.com/plugin/github) | Display a link to your GitHub repo in your gitbook. | N/A | [GitHub](https://github.com/GitbookIO/plugin-github) | [![Open on NPM](https://img.shields.io/npm/dw/gitbook-plugin-github.svg)](https://www.npmjs.com/package/gitbook-plugin-github) |
+| [hide-published-with](https://plugins.gitbook.com/plugin/hide-published-with) | GitBook Plugin to hide Published with... | N/A | N/A | [![Open on NPM](https://img.shields.io/npm/dw/gitbook-plugin-hide-published-with.svg)](https://www.npmjs.com/package/gitbook-plugin-hide-published-with) |
+| [insert-logo](https://plugins.gitbook.com/plugin/insert-logo) | GitBook Plugin to insert logo (url or file or base64) into the navigation above search input. | N/A | [GitHub](https://github.com/matusnovak/gitbook-plugin-insert-logo) | [![Open on NPM](https://img.shields.io/npm/dw/gitbook-plugin-insert-logo.svg)](https://www.npmjs.com/package/gitbook-plugin-insert-logo) |
 
 
 ## Website
